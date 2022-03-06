@@ -1,7 +1,5 @@
-#include <cstdio>
 #include <algorithm>
 #include <iostream>
-#include <cstring>
 #include <vector>
 #include "graphtools.h"
 #define LL long long
